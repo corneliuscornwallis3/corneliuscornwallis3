@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Cory Harris
 
-<!--
-**corneliuscornwallis3/corneliuscornwallis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Systems Engineer with a passion for automation, integration, and scalable software development. I specialize in:
 
-Here are some ideas to get you started:
+- 📄 OCR and document automation
+- 🔗 ERP & API integrations (Infor, PowerAutomate, REST)
+- 📊 Business intelligence and data visualization
+- ⚙️ Python, SQL, Progress 4GL, and cloud tooling (Azure, SharePoint)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Featured Projects
+
+🔹 [OCR Document Uploader](https://github.com/YOUR_USERNAME/ocr-idm-uploader)  
+Automates text extraction, classification, and document uploads to Infor IDM using Python and OCR with EasyOCR.
+
+> _"I build tools that save teams time and help data move faster."_  
+
+---
+
+### 💼 Let's Connect
+
+📧 corylharris7@gmail.com
+🌍 Springfield, MO | Open to remote roles
