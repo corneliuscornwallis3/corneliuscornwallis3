@@ -9,7 +9,7 @@ I'm a Senior Systems Engineer with a passion for automation, integration, and sc
 
 ### 🛠️ Featured Projects
 
-🔹 [OCR Document Uploader](https://github.com/corneliusconrwallis3/ocr-idm-uploader)  
+🔹 [OCR Document Uploader](https://github.com/corneliuscornwallis3/ocr-idm-uploader)  
 Automates text extraction, classification, and document uploads to Infor IDM using Python and OCR with EasyOCR.
 
 > _"I build tools that save teams time and help data move faster."_  
